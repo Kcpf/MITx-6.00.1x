@@ -6,4 +6,3 @@ Course provided by Prof. Eric Grimson
 This repository contains solutions to the -
   * Coding exercises
   * Problem Sets
-  * Midterm Exam and Final Exam
